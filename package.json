@@ -1,0 +1,7 @@
+{
+  "name": "classic-plan",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"build": "node scripts/build.cjs"},
+  "engines": {"node": ">=22"}
+}

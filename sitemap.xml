@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace the reserved example domain with the final Vercel/custom domain before submitting to search engines. A single-page site has one sitemap URL, not one URL per section. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://your-classic-domain.example/</loc></url>
+</urlset>

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace this reserved example address with the final site domain.
+Sitemap: https://your-classic-domain.example/sitemap.xml
